@@ -43,7 +43,7 @@ DeepDream is a computer vision technique developed by Google to enhance and modi
 
 Here are some example images generated using DeepDream:  
 
-- ![Sample Image 1](https://github.com/user-attachments/assets/sample1.jpg)  
+- ![Image](https://github.com/user-attachments/assets/6ea2d243-a8fd-4d65-8bf6-88f872af24bc)
 - ![Sample Image 2](https://github.com/user-attachments/assets/sample2.jpg)  
 - ![Sample Image 3](https://github.com/user-attachments/assets/sample3.jpg)  
 
