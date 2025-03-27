@@ -45,7 +45,7 @@ Here are some example images generated using DeepDream:
 
 - ![Image](https://github.com/user-attachments/assets/6ea2d243-a8fd-4d65-8bf6-88f872af24bc)
 - ![Image](https://github.com/user-attachments/assets/27fdf122-1982-4b3b-9229-b7ad350cc367)
-- ![Sample Image 3](https://github.com/user-attachments/assets/sample3.jpg)  
+- ![Image](https://github.com/user-attachments/assets/94802f05-91ae-4616-b486-bda065c2b370)
 
 ---
 
