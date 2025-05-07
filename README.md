@@ -1,6 +1,6 @@
-# **Understanding_Deepdream**  
+# **understanding-deepdream**  
 
-**Understanding_Deepdream** is a deep learning project that explores the **DeepDream algorithm** using **InceptionV3**. The goal is to visualize the features learned by a neural network by enhancing and amplifying patterns in an input image through a process called "dreaming." This project includes an interactive implementation of DeepDream using TensorFlow, allowing users to experiment with different layers and parameters to generate unique artistic images.  
+**understanding-deepdream** is a deep learning project that explores the **DeepDream algorithm** using **InceptionV3**. The goal is to visualize the features learned by a neural network by enhancing and amplifying patterns in an input image through a process called "dreaming." This project includes an interactive implementation of DeepDream using TensorFlow, allowing users to experiment with different layers and parameters to generate unique artistic images.  
 
 ---
 
